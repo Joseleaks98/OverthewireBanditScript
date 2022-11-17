@@ -4,3 +4,5 @@
  
  
  echo "bandit0:bandit0" > users
+
+y necesitaremos instalar xclip
